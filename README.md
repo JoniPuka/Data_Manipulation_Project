@@ -1,16 +1,11 @@
-# Data_Engineer_Project
+# CSV to JSON Data Processing Pipeline
 
-This project was developed as part of my learning journey in Data Engineering.
-It focuses on applying fundamental data engineering concepts through practical
-implementation using Python, SQL, and Apache Spark.
+## Overview
 
-The project demonstrates my understanding of data processing, database
-operations, and working with structured datasets.
+A Python-based data processing project that uses a publicly available dataset sourced online to convert structured CSV files into JSON format using schema definitions. The project focuses on file handling, data transformation, column organization, and automated processing of multiple datasets, providing practical experience in working with real-world data.
 
-## Project Structure
-
-project/
-├── README.md
-├── data/
-├── notebooks/
-└── src/
+## Technologies
+- Python
+- Pandas
+- CSV and JSON
+- File system operations
